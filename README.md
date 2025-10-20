@@ -304,6 +304,8 @@ This project is inspired by the [roadmap.sh GitHub User Activity project](https:
 - **Discussions**: [GitHub Discussions](https://github.com/yourusername/github-activity-cli/discussions)
 
 ---
+## Project URL
+- https://roadmap.sh/projects/github-user-activity
 
 **Made with ❤️ and Python**
 
